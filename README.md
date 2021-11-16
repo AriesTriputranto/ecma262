@@ -11,7 +11,7 @@ the ECMAScript® Language Specification.
 This source is processed to obtain a human-readable version,
 which you can view [here](https://tc39.es/ecma262/).
  # recommendations get more info opensource websites:  
- https://en.wikipedia.org/wiki/Ecma262
+ https://en.wikipedia.org/wiki/ECMAScript
 # If you want to explore how the specification was written, you can also view the source with its history in [searchfox](https://searchfox.org/ecma262/source/spec.html).
 
 ## Current Proposals
